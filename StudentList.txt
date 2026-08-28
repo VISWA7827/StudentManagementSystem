@@ -1,0 +1,33 @@
+Student Adhaar Number is:123456789111
+Student surname is :perigopr
+Student Name is:vinay
+Student Father name is:thanvika
+Student Father Adhaar Number:123456789876
+Students The Father phone number:9666787056
+Students class is:4
+Student Age is:12
+Student Gender is:m
+Student Admission time:Wed Aug 26 03:43:07 2026
+
+Student Adhaar Number is:123456789876
+Student surname is :Nagumalli
+Student Name is:Viswa anil KUmar
+Student Father name is:Venkateswara rao
+Student Father Adhaar Number:123456789123
+Students The Father phone number:9666787056
+Students class is:3
+Student Age is:10
+Student Gender is:m
+Student Admission time:Wed Aug 26 03:42:16 2026
+
+Student Adhaar Number is:987654321234
+Student surname is :Viswa
+Student Name is:nagumalli
+Student Father name is:venky
+Student Father Adhaar Number:987654321897
+Students The Father phone number:9666787056
+Students class is:2
+Student Age is:8
+Student Gender is:f
+Student Admission time:Wed Aug 26 04:43:38 2026
+
