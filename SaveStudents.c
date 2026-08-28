@@ -17,7 +17,7 @@ void SaveStudents()
     fp=fopen("StudentList.txt","a+");
     if(fp==NULL)
     {
-        printf("File does exit\n");
+        printf("File does not exit\n");
     }
     else
     {
