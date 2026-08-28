@@ -9,7 +9,7 @@ void DisplaySavedStudents()
     if(fp==NULL)
     {
         printf("File does not create in your folder\n");
-        printf("If you want to create the file then press the option 1 then go back to the main memu the press the savedstudents\n");
+        printf("If you want to Create the file then press the option 1 then go back to the main memu the press the savedstudents\n");
         int op;
         scanf("%d",&op);
         if(op==1)
