@@ -11,20 +11,20 @@ void StudentTraversal()
     }
     else
     {
+        printf("~~~Display Students~~~\n");
         for(int i=0;i<TotalStudents;i++)
         {
-            printf("Student Adhaar Number is:%lld\n",Students[i].AdhaarNo);
-            printf("Student surname is :%s\n",Students[i].Surname);
-            printf("Student Name is:%s\n",Students[i].StudentName);
-            printf("Student Father name is:%s\n",Students[i].FatherName);
-            printf("Student Father Adhaar Number:%lld\n",Students[i].FatherAdhaarNo);
-            printf("Students The Father phone number:%lld\n",Students[i].PhoneNo);
-            printf("Students class is:%d\n",Students[i].Stuclass);
-            printf("Student Age is:%d\n",Students[i].age);
-            printf("Student Gender is:%c\n",Students[i].gender);
-            printf("Student Admission time:%s\n",ctime(&Students[i].AdmissionTime));
+            printf("Student Adhaar Number is:%lld\n",Students[i].AdhaarNo);//Here print the Student Adhaar Number
+            printf("Student surname is :%s\n",Students[i].Surname);//Here print Student surname
+            printf("Student Name is:%s\n",Students[i].StudentName);//Here print the student Name
+            printf("Student Father name is:%s\n",Students[i].FatherName);//here print the Student Father Name
+            printf("Student Father Adhaar Number:%lld\n",Students[i].FatherAdhaarNo);//Here print the Student Father Adhaar Number
+            printf("Students The Father phone number:%lld\n",Students[i].PhoneNo);//Here print the Student Father Phone Number
+            printf("Students class is:%d\n",Students[i].Stuclass);//Here print the Student Standend
+            printf("Student Age is:%d\n",Students[i].age);//Here print the Student age
+            printf("Student Gender is:%c\n",Students[i].gender);//Here print the Student Gender of the Student
+            printf("Student Admission time:%s\n",ctime(&Students[i].AdmissionTime));//Here print the Adimission time of the Student
         }
-        printf("Total Number of students are presented %d\n",TotalStudents);
-        printf("Successfully Display the Students\n");
+        printf("!...Successfully Display the Students...!\n");
     }
 }
