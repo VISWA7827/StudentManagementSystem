@@ -5,6 +5,11 @@
 #include<time.h>
 void SortedStudentsByAdhaar()
 {
+    if(TotalStudents==-1)
+    {
+        printf("Here Not possible Sorting\n");
+    }
+    else{
     STUDENT temp;
     for(int i=0;i<TotalStudents;i++)
     {
@@ -18,4 +23,5 @@ void SortedStudentsByAdhaar()
             }
         }
     }
+}
 }
