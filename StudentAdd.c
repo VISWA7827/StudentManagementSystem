@@ -35,7 +35,7 @@ void StudentAdd()
     int a=CheckDetails();//calling the checkdetails function because if the valid details and also return the values
     if(a==0)
     {
-        printf("Students Details are Correct\n");
+        printf("Students Details are Correct...\n");
         TotalStudents++;
     }
     else
