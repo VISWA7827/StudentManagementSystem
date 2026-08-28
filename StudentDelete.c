@@ -3,6 +3,8 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<time.h>
+//Deletion operation perform on the Adhaar Number 
+//Why because Adhaar Number is only Different Number
 void StudentDelete() {
     long long adhaar;
     printf("Enter the Adhar Number of the Student:");
@@ -36,5 +38,5 @@ void StudentDelete() {
         Students = NULL;
     }
 
-    printf("Successfully Deleted The Student\n");
+    printf("!...Successfully Deleted The Student....!\n");
 }
