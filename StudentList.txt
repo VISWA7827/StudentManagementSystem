@@ -1,33 +1,57 @@
-Student Adhaar Number is:123456789111
-Student surname is :perigopr
-Student Name is:vinay
-Student Father name is:thanvika
-Student Father Adhaar Number:123456789876
-Students The Father phone number:9666787056
-Students class is:4
-Student Age is:12
-Student Gender is:m
-Student Admission time:Wed Aug 26 03:43:07 2026
 
-Student Adhaar Number is:123456789876
+
+Student Adhaar Number is:123456789987
 Student surname is :Nagumalli
-Student Name is:Viswa anil KUmar
-Student Father name is:Venkateswara rao
-Student Father Adhaar Number:123456789123
-Students The Father phone number:9666787056
-Students class is:3
-Student Age is:10
-Student Gender is:m
-Student Admission time:Wed Aug 26 03:42:16 2026
+Student Name is:Bala Guravaiah
+Student Father name is:Venkateswara Rao
+Student Father Adhaar Number:987654321234
+Students The Father phone number:8886239999
+Students class is:8
+Student Age is:14
+Student Gender is:M
+Student Admission time:Fri Aug 28 21:53:27 2026
 
-Student Adhaar Number is:987654321256
-Student surname is :Viswa
-Student Name is:nagumalli
-Student Father name is:venky
-Student Father Adhaar Number:987654321897
-Students The Father phone number:9666787056
+Student Adhaar Number is:234567892345
+Student surname is :Peripogu
+Student Name is:Vinay Prakash
+Student Father name is:Yesu Dasu
+Student Father Adhaar Number:123456789876
+Students The Father phone number:8464970000
+Students class is:10
+Student Age is:16
+Student Gender is:M
+Student Admission time:Fri Aug 28 21:55:06 2026
+
+Student Adhaar Number is:567898765432
+Student surname is :Peripogu
+Student Name is:Bobby
+Student Father name is:Yesu Dasu
+Student Father Adhaar Number:123456789876
+Students The Father phone number:1234567898
+Students class is:8
+Student Age is:17
+Student Gender is:F
+Student Admission time:Fri Aug 28 21:56:51 2026
+
+Student Adhaar Number is:987654321123
+Student surname is :Nagumalli
+Student Name is:Viswa Anil Kumar
+Student Father name is:Venkateswara Rao
+Student Father Adhaar Number:123456789876
+Students The Father phone number:9666787777
+Students class is:10
+Student Age is:16
+Student Gender is:M
+Student Admission time:Fri Aug 28 21:52:27 2026
+
+Student Adhaar Number is:987896776545
+Student surname is :Kondaru
+Student Name is:Amulya
+Student Father name is:Mangaiah
+Student Father Adhaar Number:345678987654
+Students The Father phone number:9553390625
 Students class is:2
-Student Age is:8
-Student Gender is:f
-Student Admission time:Wed Aug 26 04:43:38 2026
+Student Age is:7
+Student Gender is:F
+Student Admission time:Fri Aug 28 21:58:07 2026
 
