@@ -6,21 +6,11 @@
 void SaveStudents()
 {
     FILE *fp;
-    int option;
-    printf("Before the Save or Retrive the data Must be file create in the same folder\n");
-    printf("If you want to create the file then press the option 1:");
-    scanf("%d",&option);
-    if(option==1)
-    {
-        FILE *fp1=fopen("StudentList.txt","w");
-    }
-    fp=fopen("StudentList.txt","a+");
+    fp=fopen("StudentList.txt","a");
     if(fp==NULL)
     {
-        printf("File does not exit\n");
+        printf("Error:Could not open student file.\n");
     }
-    else
-    {
     for(int i=0;i<TotalStudents;i++)
     {
         fprintf(fp,"Student Adhaar Number is:%lld\n",Students[i].AdhaarNo);
@@ -34,6 +24,6 @@ void SaveStudents()
         fprintf(fp,"Student Gender is:%c\n",Students[i].gender);
         fprintf(fp,"Student Admission time:%s\n",ctime(&Students[i].AdmissionTime));
     }
-}
 fclose(fp);
+printf("Students Saved Successfully.\n");
 }
